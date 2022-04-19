@@ -41,6 +41,11 @@ Files:
 * [ion_channels_fastNa.svg](ion_channels_fastNa.svg)
 * [ion_channels_fastNa_old.svg](ion_channels_fastNa_old.svg) (old version)
 
+References:
+
+* [Klabunde2011](https://isbnsearch.org/isbn/9781451113846)
+* [Chandler2009](https://doi.org/10.1161/CIRCULATIONAHA.108.804369) (I<sub>Na</sub> is not present in SAN)
+
 #### Funny channel (I<sub>f</sub>)
 
 Files:

@@ -1,6 +1,6 @@
 # SVG action potential (svgap)
 
-This project features a set of SVG images that illustrate the formation of the characteristic action potential in pacemaker and non-pacemaker cells in the human heart, including the inner workings of all major ion channels.
+This project features a set of SVG images and JavaScript-powered animations that illustrate the formation of the characteristic action potential in pacemaker and non-pacemaker cells in the human heart, including the inner workings of all major ion channels.
 
 This is a byproduct of my PhD thesis, in which I wanted to learn about the electrophysiology of the human heart.
 These images reflect my own understanding of the subject and while I was thorough in my research, I have to warn you that I am not a biologist but a computer scientist by training.

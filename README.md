@@ -6,6 +6,17 @@ This is a byproduct of my PhD thesis, in which I wanted to learn about the elect
 These images reflect my own understanding of the subject and while I was thorough in my research, I have to warn you that I am not a biologist but a computer scientist by training.
 All the information about the structure and parameters of individual ion channels and pumps is compiled from scientific references, which I will link here, but there may still be omissions and errors due to misunderstandings on my part.
 
+## General references
+
+Some references (mainly books and web resources) were used for multiple channels, which is why I list them only once here:
+
+* [Klabunde2011](https://isbnsearch.org/isbn/9781451113846) (the starting point of my research)
+* [Chandler2009](https://doi.org/10.1161/CIRCULATIONAHA.108.804369) (role and presence of ion currents in SAN)
+* [PhysiologyWeb](https://web.archive.org/web/20210611082937/https://www.physiologyweb.com/lecture_notes/neuronal_action_potential/neuronal_action_potential_important_features.html)
+* [Gerstner2012](https://doi.org/10.1017/CBO9780511815706)
+* [Darnell2000](https://isbnsearch.org/isbn/0716731363)
+* [Seeley2006](https://isbnsearch.org/isbn/9780073228051)
+
 ## List of images
 
 ### Overview
@@ -41,11 +52,6 @@ Files:
 * [ion_channels_fastNa.svg](ion_channels_fastNa.svg)
 * [ion_channels_fastNa_old.svg](ion_channels_fastNa_old.svg) (old version)
 
-References:
-
-* [Klabunde2011](https://isbnsearch.org/isbn/9781451113846)
-* [Chandler2009](https://doi.org/10.1161/CIRCULATIONAHA.108.804369) (I<sub>Na</sub> is not present in SAN)
-
 #### Funny channel (I<sub>f</sub>)
 
 Files:
@@ -61,12 +67,21 @@ File: [ion_channels_LType.svg](ion_channels_LType.svg)
 
 File: [ion_channels_TType.svg](ion_channels_TType.svg)
 
+Additional references:
+
+* [Catterall2011](https://doi.org/10.1101/cshperspect.a003947)
+* [Ono2010](https://doi.org/10.1016/j.yjmcc.2009.08.021)
+
 #### Inward rectifier potassium channel (I<sub>K1</sub>)
 
 Files: 
 
 * [ion_channels_inward_rectifier.svg](ion_channels_inward_rectifier.svg)
 * [ion_channels_inward_rectifier_old.svg](ion_channels_inward_rectifier_old.svg) (old version)
+
+Additional references:
+
+* [DiFrancesco2010](https://doi.org/10.1161/CIRCRESAHA.109.208041)
 
 #### Transient outward channel (I<sub>to</sub>)
 
@@ -76,10 +91,19 @@ File: [ion_channels_transient_outward.svg](ion_channels_transient_outward.svg)
 
 File: [ion_channels_rapid_delayed_rectifier.svg](ion_channels_rapid_delayed_rectifier.svg)
 
+Additional references:
+
+* [hergchannel.com](https://web.archive.org/web/20190806143620/http://hergchannel.com/)
+* [Nattel2008](https://doi.org/10.1113/jphysiol.2008.163089)
+
 
 #### Ultrarapid delayed rectifier channel (I<sub>Kur</sub>)
 
 File: [ion_channels_ultrarapid_delayed_rectifier.svg](ion_channels_ultrarapid_delayed_rectifier.svg)
+
+Additional references:
+
+* [Wang1993](https://www.ahajournals.org/doi/abs/10.1161/01.res.73.6.1061)
 
 #### Leak channel
 
@@ -89,13 +113,26 @@ File: [ion_channels_potassium_leak.svg](ion_channels_potassium_leak.svg)
 
 File: [ion_channels_calcium_activated.svg](ion_channels_calcium_activated.svg)
 
+Additional references:
+
+* [Hirschberg1998](https://doi.org/10.1085/jgp.111.4.565)
+
 #### ACh-activated potassium channel (I<sub>K,ACh</sub>)
 
 File: [ion_channels_calcium_ACh_activated.svg](ion_channels_calcium_ACh_activated.svg)
 
+Additional references:
+
+* [YouTube video](https://www.youtube.com/watch?v=tTY1VNDYtdE)
+* [Grant2009](https://doi.org/10.1161/CIRCEP.108.789081)
+
 #### ATP-sensitive potassium channel (I<sub>K,ATP</sub>)
 
 File: [ion_channels_atp_sensitive.svg](ion_channels_atp_sensitive.svg)
+
+Additional references:
+
+* [Noma1983](https://doi.org/10.1038/305147a0)
 
 ### Ion pumps and exchangers
 
@@ -105,6 +142,9 @@ Files:
 
 * [ion_transport_sodium-calcium-exchanger.svg](ion_transport_sodium-calcium-exchanger.svg)
 * [ion_transport_sodium-calcium-exchanger_base.svg](ion_transport_sodium-calcium-exchanger_base.svg) (working copy)
+
+Additional references:
+
 
 #### Sodium-potassium pump (I<sub>NaK</sub>)
 

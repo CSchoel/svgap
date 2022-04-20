@@ -8,7 +8,7 @@ All the information about the structure and parameters of individual ion channel
 
 ## General references
 
-Some references (mainly books and web resources) were used for multiple channels, which is why I list them only once here:
+Some references (mainly books and web resources) were used for multiple currents, which is why I list them only once here:
 
 * [Klabunde2011](https://isbnsearch.org/isbn/9781451113846) (the starting point of my research)
 * [Chandler2009](https://doi.org/10.1161/CIRCULATIONAHA.108.804369) (role and presence of ion currents in SAN)
@@ -20,6 +20,8 @@ Some references (mainly books and web resources) were used for multiple channels
 ## List of images
 
 ### Overview
+
+The overview images give a good first impression of which part of cardiac electrophysiology is covered in this project.
 
 #### Channels and pumps in the cell membrane
 
@@ -44,6 +46,9 @@ Files:
 * [action_potentials_comparison_half.svg](action_potentials_comparison_half.svg)
 
 ### Ion channels
+
+The following images illustrate individual ion channels that sit in the cell membrane.
+By convention the top part of the image is the extracellular space and the bottom part represents the intracellular space.
 
 #### Fast sodium channel (I<sub>Na</sub>)
 
@@ -136,14 +141,15 @@ Additional references:
 
 ### Ion pumps and exchangers
 
+In addition to ion channels, there are also active transport mechanisms through pumps and exchangers that have to be considered.
+These folow the same visual conventions as the ion channels.
+
 #### Sodium-calcium exchanger (I<sub>NaCa</sub>)
 
 Files:
 
 * [ion_transport_sodium-calcium-exchanger.svg](ion_transport_sodium-calcium-exchanger.svg)
 * [ion_transport_sodium-calcium-exchanger_base.svg](ion_transport_sodium-calcium-exchanger_base.svg) (working copy)
-
-Additional references:
 
 
 #### Sodium-potassium pump (I<sub>NaK</sub>)
@@ -154,6 +160,9 @@ Files:
 * [ion_transport_nap-kp-pump_base.svg](ion_transport_nap-kp-pump_base.svg) (working copy)
 
 ### Autonomic nervous system
+
+The membrane potential of heart muscle cells is subject to autonomic control via adrenaline and acetylcholine.
+The following images illustrate this phenomenon in the sinoatrial node.
 
 #### Base file
 

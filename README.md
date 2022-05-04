@@ -126,3 +126,12 @@ This resulted in two animations, one for pacemaker cells and one for non-pacemak
   * File: [animations/nonpacemaker/nonpacemaker_action_potential.html](animations/nonpacemaker/nonpacemaker_action_potential.html)
 
 This part of the project contains third party libraries in [animations/lib](animations/lib), which are subject to their respective licenses as indicated in the comments at the top of the JavaScript files.
+
+### Known issues
+
+For the animations to work in a local browser window, you need to [allow local files to acces other files on the file system](https://stackoverflow.com/questions/22529398/getsvgdocument-returns-null-in-firefox-and-chrome).
+In Chrome, this requires running Chrome from the command line with the parameter `--allow-file-access-from-files`.
+In Firefox, you need to set `security.fileuri.strict_origin_policy` to false in `about:config`.
+
+Unfortunately, I still cannot get the animations to run again on my machine, which seems to be an issue with the `pathseg.js` polyfill not working properly.
+If you are reading this and have a suggestion for me, please let me know.
